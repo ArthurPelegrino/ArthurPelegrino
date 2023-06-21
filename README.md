@@ -2,12 +2,12 @@
 ## Hi There, I'm Arthur Pelegrino
 
 ### 😁 About me 
- - 🎯 Apaixonado por Tecnologia, Futebol e Viagens.
- - 👨🏻‍💻 Desenvolvedor Full-Stack <a href="https://www.betrybe.com/">Trybe</a>
+ - 🎯 Passionate about technology, sports, and travel.
+ - 👨🏻‍💻 Full-Stack developer <a href="https://www.betrybe.com/">Trybe</a>
  - 📍 Belo Horizonte, Minas Gerais, Brasil!
 
 ##
-### 💡 Vamos nos conectar
+### 💡 Let's connect!
 <div style="display: inline_block, margin: 10px">
   <a href="https://www.linkedin.com/in/arthur-pelegrino/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Arthur Pelegrino" target="_blank"/>
